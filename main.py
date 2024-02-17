@@ -1,3 +1,3 @@
 #main.py
 updating
-adding scrape function
+adding parse function
